@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : BC847.LibPkg
+
+Section : C:\midithru\midithru\BC847.lia
+    Section : PCB Library - BC847.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NPN On Line 143
+            Warning - 1 : Skipping Token attachedSymbol On Line 212
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - BC847.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 115
+        EndSection
+
+        Section : Generating SCH Library - BC847.SchLib
+        EndSection
+    EndSection
+EndSection

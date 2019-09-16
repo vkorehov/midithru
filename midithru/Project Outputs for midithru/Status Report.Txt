@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [midithru.PrjPcb]
+   Generated File[midithru.GTO]
+   Generated File[midithru.GTP]
+   Generated File[midithru.GTS]
+   Generated File[midithru.GTL]
+   Generated File[midithru.GBL]
+   Generated File[midithru.GBS]
+   Generated File[midithru.GBP]
+   Generated File[midithru.GBO]
+   Generated File[midithru.GM1]
+   Generated File[midithru.GM4]
+   Generated File[midithru.GM13]
+   Generated File[midithru.GM15]
+   Generated File[midithru.GKO]
+   Generated File[midithru.GPT]
+   Generated File[midithru.GPB]
+   Generated File[midithru.RUL]
+   Generated File[midithru.EXTREP]
+   Generated File[midithru.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 23:38:26 On 16-Sep-19
